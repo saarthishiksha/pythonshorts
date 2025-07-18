@@ -1,0 +1,7 @@
+Chalo, ek chhota sa truth table dekhte hain:
+| A     | B     | A and B | A or B | not A |
+|-------|-------|---------|--------|-------|
+| True  | True  | True    | True   | False |
+| True  | False | False   | True   | False |
+| False | True  | False   | True   | True  |
+| False | False | False   | False  | True  |
